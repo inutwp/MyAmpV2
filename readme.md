@@ -1,4 +1,4 @@
-## MyAmp version 2.0
+![MyAmpV2](https://socialify.git.ci/inutwp/MyAmpV2/image?description=1&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
 Desktop Hybrid/Opamp Amp.
 
